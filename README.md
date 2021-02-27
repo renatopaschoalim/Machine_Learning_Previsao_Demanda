@@ -34,3 +34,6 @@ Para melhorar os resultados poderia testar:
 - Efetuar normalização dos dados;
 
 - Combinação de modelos;
+
+
+Link Dataset Kaggle: https://www.kaggle.com/c/demand-forecasting-kernels-only/data
