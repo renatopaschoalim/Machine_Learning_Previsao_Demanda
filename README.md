@@ -10,7 +10,6 @@ O objetivo é prever 3 meses a nível de item vendido com dados de diferente loj
 
 - train.csv - Dados de Treino; 
 - test.csv - Dados de Teste; 
-- sample_submission.csv - Arquivo no formato correto para o envio;
 
 ### Campos do arquivo:
 
