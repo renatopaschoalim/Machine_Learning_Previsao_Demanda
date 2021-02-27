@@ -18,3 +18,19 @@ O objetivo é prever 3 meses a nível de item vendido com dados de diferente loj
 - store - Identificação da Loja; 
 - item - Identificação do item; 
 - sales - Número de itens vendidos de uma determinada loja e em uma determinada data;
+
+
+
+Nesse projeto foi usado três modelos: XGBoostRegressor, LGBMRegressor e CatBoostRegressor onde o modelo da CatBoost se saiu melhor que os outros.
+
+A métrica de avaliação usada nesse projeto foi a MAPE (Erro Absoluto Médio Percentual) que mede a média do erro percentual em relação ao valor real com o valor previsto.
+
+  
+
+Para melhorar os resultados poderia testar:
+
+- Usar outros algoritmos como ARIMA, Prophet do Facebook ou Rede Neural LSTM (Long Short Term Memory);
+
+- Efetuar normalização dos dados;
+
+- Combinação de modelos;
