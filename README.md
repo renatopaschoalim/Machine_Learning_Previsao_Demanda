@@ -9,7 +9,8 @@ O objetivo é prever 3 meses a nível de item vendido com dados de diferente loj
 ### Descrição do arquivo:
 
 - train.csv - Dados de Treino; 
-- test.csv - Dados de Teste; 
+- test.csv - Dados de Teste;
+- sample_submission.csv - Arquivo com as previsões da base de teste; 
 
 ### Campos do arquivo:
 
